@@ -1,0 +1,38 @@
+{
+    "disasterZones": [
+        {
+            "id": 1,
+            "name": "Flood Zone A",
+            "lat": 19.0760,
+            "lng": 72.8777,
+            "risk": "High",
+            "type": "Flood",
+            "radius": 5000
+        },
+        {
+            "id": 2,
+            "name": "Earthquake Zone B",
+            "lat": 28.7041,
+            "lng": 77.1025,
+            "risk": "Moderate",
+            "type": "Earthquake",
+            "radius": 10000
+        }
+    ],
+    "shelters": [
+        {
+            "id": 1,
+            "name": "City School Shelter",
+            "lat": 19.0800,
+            "lng": 72.8800,
+            "capacity": 500
+        },
+        {
+            "id": 2,
+            "name": "Community Hall",
+            "lat": 28.7100,
+            "lng": 77.1100,
+            "capacity": 200
+        }
+    ]
+}
